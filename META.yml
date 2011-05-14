@@ -1,0 +1,16 @@
+--- #YAML:1.0
+name:                Git-CPAN-Hook
+version:             0.01
+abstract:            Commit each install done by CPAN.pm in a Git repository
+license:             perl
+author:              
+    - Philippe Bruhat (BooK) <book@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    CPAN:                          1.84
+    Git::Repository:               1.15
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
