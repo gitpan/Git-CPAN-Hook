@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Git-CPAN-Hook
-version:            0.02
+version:            0.03
 abstract:           Commit each install done by CPAN.pm in a Git repository
 author:
     - Philippe Bruhat (BooK) <book@cpan.org>
